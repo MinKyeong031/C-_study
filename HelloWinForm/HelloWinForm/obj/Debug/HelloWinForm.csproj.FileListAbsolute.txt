@@ -1,0 +1,9 @@
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\bin\Debug\HelloWinform.exe.config
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\bin\Debug\HelloWinform.exe
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\bin\Debug\HelloWinform.pdb
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\obj\Debug\HelloWinForm.Form1.resources
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\obj\Debug\HelloWinform.Properties.Resources.resources
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\obj\Debug\HelloWinForm.csproj.GenerateResource.cache
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\obj\Debug\HelloWinForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\obj\Debug\HelloWinform.exe
+C:\Users\user\Documents\C-_study\HelloWinForm\HelloWinForm\obj\Debug\HelloWinform.pdb
