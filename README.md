@@ -1,1 +1,2 @@
-# C-_study
+# CSharp_Study
+학교 C# 공부
